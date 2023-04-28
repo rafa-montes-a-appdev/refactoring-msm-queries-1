@@ -14,4 +14,4 @@ class MoviesController < ApplicationController
 
     render({ :template => "movie_templates/show.html.erb" })
   end
-end
+end 
